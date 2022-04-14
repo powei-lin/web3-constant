@@ -1,2 +1,3 @@
-import UniswapV2
-__all__ = ['UniswapV2']
+from . import UniswapV2
+
+__all__ = ["UniswapV2"]
