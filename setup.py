@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="web3-constant",
-    version="0.0.2",
+    version="0.0.3",
     author="Powei Lin",
     author_email="poweilin1994@gmail.com",
     description="Useful web3 constant",
