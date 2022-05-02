@@ -44,7 +44,7 @@ while(True):
 from web3 import Web3
 from web3constant.Fantom.Url import FTM_RPC
 from web3constant.Fantom.Dex import SPOOKY_SWAP_FACTORY_ADDRESS
-from web3constant.abi.UniswapV2 import SPOOKY_SWAP_FACTORY_ABI, UNISWAP_V2_PAIR_ABI
+from web3abi.UniswapV2 import SPOOKY_SWAP_FACTORY_ABI, UNISWAP_V2_PAIR_ABI
 
 w3 = Web3(Web3.HTTPProvider(FTM_RPC))
 

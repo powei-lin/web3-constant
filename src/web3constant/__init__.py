@@ -1,5 +1,4 @@
 from . import topics
-from . import abi
 
 __all__ = ["Cronos", "Fantom", "topics", "utility"]
 
