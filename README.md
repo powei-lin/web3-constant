@@ -2,7 +2,7 @@
 
 ### Install
 ```
-pip install web3-constant
+pip install web3-abi web3-constant
 ```
 
 ### Connect to Web3
